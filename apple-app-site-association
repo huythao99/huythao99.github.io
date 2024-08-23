@@ -1,0 +1,26 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "4RYBZVBDY9.dev.monplayer.mpapp"
+        ],
+        "paths": [
+          "*",
+          "provider"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "4RYBZVBDY9.dev.monplayer.mpapp"
+    ]
+  }
+}
