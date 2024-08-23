@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "dev.monplayer.mpapp",
+    "sha256_cert_fingerprints":
+    ["ED:47:C4:BC:71:59:73:53:26:33:52:A2:4E:AE:58:4E:6D:11:61:4D:5E:85:E5:FF:78:18:D6:46:E3:E3:8F:71"]
+  }
+}]
